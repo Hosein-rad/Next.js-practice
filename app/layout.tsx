@@ -33,6 +33,7 @@ export default function RootLayout({
           <Link href={"/contact"}>Contact</Link>
           <Link href={"/about"}>About</Link>
           <Link href={"/users"}>Users</Link>
+          <Link href={"/log-in"}>Log-in</Link>
         </div>
         {children}
       </body>
